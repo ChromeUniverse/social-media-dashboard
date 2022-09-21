@@ -1,0 +1,95 @@
+{
+  "total_followers": 23004,
+  "primary": [
+    {
+      "platform": "facebook",
+      "handle": "@nathanf",
+      "quantity": "1987",
+      "type": "Followers",
+      "deltaType": 1,
+      "delta": 12
+    },
+    {
+      "platform": "twitter",
+      "handle": "@nathanf",
+      "quantity": "1044",
+      "type": "Followers",
+      "deltaType": 1,
+      "delta": 99
+    },
+    {
+      "platform": "instagram",
+      "handle": "@realnathanf",
+      "quantity": "11k",
+      "type": "Followers",
+      "deltaType": 1,
+      "delta": 1099
+    },
+    {
+      "platform": "youtube",
+      "handle": "Nathan F.",
+      "quantity": "8239",
+      "type": "Subscribers",
+      "deltaType": 0,
+      "delta": 144
+    }
+  ],
+  "secondary": [
+    {
+      "platform": "facebook",
+      "quantity": 87,
+      "type": "Page Views",
+      "deltaType": 1,
+      "delta": 3
+    },
+    {
+      "platform": "facebook",
+      "quantity": 52,
+      "type": "Likes",
+      "deltaType": 0,
+      "delta": 2
+    },
+    {
+      "platform": "instagram",
+      "quantity": 5462,
+      "type": "Likes",
+      "deltaType": 1,
+      "delta": 2257
+    },
+    {
+      "platform": "instagram",
+      "quantity": "52k",
+      "type": "Profile Views",
+      "deltaType": 1,
+      "delta": 1375
+    },
+    {
+      "platform": "twitter",
+      "quantity": 117,
+      "type": "Profile Views",
+      "deltaType": 1,
+      "delta": 303
+    },
+    {
+      "platform": "twitter",
+      "quantity": 507,
+      "type": "Likes",
+      "deltaType": 1,
+      "delta": 553
+    },
+    {
+      "platform": "youtube",
+      "quantity": 107,
+      "type": "Likes",
+      "deltaType": 0,
+      "delta": 19
+    },
+    {
+      "platform": "youtube",
+      "quantity": 1407,
+      "type": "Total Views",
+      "deltaType": 0,
+      "delta": 12
+    }
+  ]
+}
